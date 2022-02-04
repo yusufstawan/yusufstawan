@@ -52,9 +52,9 @@ const Contact = () => {
             <b>Open to work!</b> Ingin menghubungi saya lebih lanjut. Silahkan isi form berikut:
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
-            <input style={{ backgroundColor: darkMode && "#333" }} type="text" placeholder="Nama" name="user_name" />
-            <input style={{ backgroundColor: darkMode && "#333" }} type="text" placeholder="Subject" name="user_subject" />
-            <input style={{ backgroundColor: darkMode && "#333" }} type="text" placeholder="Email" name="user_email" />
+            <input required style={{ backgroundColor: darkMode && "#333" }} type="text" placeholder="Nama" name="user_name" />
+            <input required style={{ backgroundColor: darkMode && "#333" }} type="text" placeholder="Subject" name="user_subject" />
+            <input required style={{ backgroundColor: darkMode && "#333" }} type="email" placeholder="Email" name="user_email" />
             <textarea style={{ backgroundColor: darkMode && "#333" }} rows="5" placeholder="Pesan" name="message" />
             <button>Kirim</button>
             {done && "Terima kasih.."}

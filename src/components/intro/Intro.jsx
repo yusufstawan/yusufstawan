@@ -1,5 +1,6 @@
 import "./Intro.css";
 import Me from "../../img/me.png";
+import { BsLinkedin, BsGithub, BsInstagram } from "react-icons/bs";
 
 import React from "react";
 
@@ -23,6 +24,17 @@ const Intro = () => {
           <p className="i-desc">
             Saat ini masih dalam proses belajar menjadi Web Developer. Fokus saya saat ini memperkuat fundamental pada HTML, CSS, JavaScript. Framework JavaScript yang saya pilih dan sedang saya pelajari adalah React JS.
           </p>
+          <div className="i-icon">
+            <a href="https://www.linkedin.com/in/yusufstawan/" target="_blank" rel="noreferrer" style={{ color: "blue" }}>
+              <BsLinkedin />
+            </a>
+            <a href="https://github.com/yusufstawan" target="_blank" rel="noreferrer" style={{ color: "black" }}>
+              <BsGithub style={{ marginLeft: 15 }} />
+            </a>
+            <a href="https://www.instagram.com/yusufstawan/" target="_blank" rel="noreferrer" style={{ color: "red" }}>
+              <BsInstagram style={{ marginLeft: 15 }} />
+            </a>
+          </div>
         </div>
         <svg width="75" height="75" viewBox="0 0 75 75" fill="none" stroke="grey" className="i-scroll" xmlns="http://www.w3.org/2000/svg">
           <g id="scroll">

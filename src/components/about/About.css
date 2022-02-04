@@ -73,6 +73,12 @@
   margin-bottom: 10px;
 }
 
+.a-download {
+  width: 20%;
+  padding: 10px 5px;
+  margin-top: 10px;
+}
+
 @media screen and (max-width: 480px) {
   .a {
     flex-direction: column;
