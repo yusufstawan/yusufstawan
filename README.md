@@ -42,4 +42,5 @@ Saya **Yusuf Setiyawan**, suka belajar Web Developer khususnya Frontend.
 </p>
 
 Deploy status:
+--
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3510e857-05c9-4646-bb38-4d58979d5fe5/deploy-status)](https://app.netlify.com/sites/yusufstawan/deploys)
