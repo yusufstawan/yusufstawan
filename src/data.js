@@ -1,4 +1,4 @@
-import project1 from '../src/img/project/1.jpg'
+import project1 from '../src/img/project/1.png'
 import project2 from '../src/img/project/2.jpg'
 import project3 from '../src/img/project/3.jpg'
 import project4 from '../src/img/project/4.jpg'
@@ -9,7 +9,7 @@ export const products = [
     {
         id: 1,
         img: project6,
-        link: "https://yusuf.sanbercodeapp.com/",
+        link: "https://movie-games-pedia.vercel.app/",
     },
     {
         id: 2,
@@ -24,16 +24,16 @@ export const products = [
     {
         id: 4,
         img: project3,
-        link: "https://delicius.yusufstawan.com/",
+        link: "https://movie-database-react.web.app/",
     },
     {
         id: 5,
         img: project2,
-        link: "https://luxspace.yusufstawan.com/",
+        link: "https://luxspace-react.vercel.app/",
     },
     {
         id: 6,
         img: project1,
-        link: "https://moviecatalog.yusufstawan.com/",
+        link: "https://github.com/yusufstawan/ai-face-detection",
     },
 ];
