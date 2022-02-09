@@ -1,0 +1,12 @@
+{
+  "name": "Yusuf Setiyawan",
+  "short_name": "yusufstawan",
+  "description": "Yusuf Setiyawan is a software engineer and a full-stack developer",
+  "icons": [
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

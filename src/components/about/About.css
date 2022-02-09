@@ -35,7 +35,7 @@
 .a-img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: fill;
 }
 
 .a-award-img {
@@ -74,9 +74,19 @@
 }
 
 .a-download {
-  width: 20%;
+  width: 30%;
   padding: 10px 5px;
   margin-top: 10px;
+}
+
+.a-kelasweb {
+  width: 30%;
+  padding: 10px 0px;
+}
+
+.a-kelasweb a {
+  text-decoration: none;
+  color: white;
 }
 
 @media screen and (max-width: 480px) {

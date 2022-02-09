@@ -33,7 +33,8 @@ const Contact = () => {
           <h1 className="c-title"> Ingin berdiskusi? </h1>
           <div className="c-info">
             <div className="c-info-item">
-              <img src={Phone} alt="" className="c-icon" /># ask by email
+              <img src={Phone} alt="" className="c-icon" />
+              085-743-099-993 (WhatsApp)
             </div>
 
             <div className="c-info-item">
