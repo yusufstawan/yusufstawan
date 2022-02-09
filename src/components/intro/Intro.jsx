@@ -21,9 +21,7 @@ const Intro = () => {
             </div>
           </div>
 
-          <p className="i-desc">
-            Saat ini masih dalam proses belajar menjadi Web Developer. Fokus saya saat ini memperkuat fundamental pada HTML, CSS, JavaScript. Framework JavaScript yang saya pilih dan sedang saya pelajari adalah React JS.
-          </p>
+          <p className="i-desc">Frontend developer in the React JS ecosystem, builds a website that is useful for everyone.</p>
           <div className="i-icon">
             <a href="https://www.linkedin.com/in/yusufstawan/" target="_blank" rel="noreferrer" style={{ color: "blue" }}>
               <BsLinkedin />
