@@ -26,11 +26,10 @@
 
 .p-img {
   width: 100%;
-  height: 100%;
   transition: all 10s ease;
 }
 
-.p:hover .pimg {
+.p:hover .p-img {
   transform: translateY(-100%);
 }
 
