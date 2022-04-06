@@ -34,6 +34,6 @@ export const products = [
     {
         id: 6,
         img: project1,
-        link: "https://github.com/yusufstawan/ai-face-detection",
+        link: "https://nftstore.yusufstawan.com/",
     },
 ];
