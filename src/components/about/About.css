@@ -21,7 +21,8 @@
   position: absolute;
   top: 50px;
   left: 50px;
-  background-color: #072227;
+  background-color: #00dbde;
+  background-image: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);
 }
 
 .a-card {
