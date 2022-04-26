@@ -1,4 +1,4 @@
-import project1 from '../src/img/project/1.png'
+import project1 from '../src/img/project/1.jpg'
 import project2 from '../src/img/project/2.jpg'
 import project3 from '../src/img/project/3.jpg'
 import project4 from '../src/img/project/4.jpg'

@@ -50,7 +50,7 @@ const Contact = () => {
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>Open to work!</b> Ingin menghubungi saya lebih lanjut. Silahkan isi form berikut:
+            <b>Open to work!</b> Ingin menghubungi saya lebih lanjut? Silahkan isi form berikut:
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
             <input required style={{ backgroundColor: darkMode && "#333" }} type="text" placeholder="Nama" name="user_name" />

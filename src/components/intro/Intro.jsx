@@ -15,13 +15,13 @@ const Intro = () => {
             <div className="i-title-wrapper">
               <div className="i-title-item">Web Developer</div>
               <div className="i-title-item">Frontend Developer</div>
-              <div className="i-title-item">ReactJS Developer</div>
-              <div className="i-title-item">Frontend Developer</div>
-              <div className="i-title-item">ReactJS Developer</div>
+              <div className="i-title-item">ReactJS</div>
+              <div className="i-title-item">NextJS</div>
+              <div className="i-title-item">React Native</div>
             </div>
           </div>
 
-          <p className="i-desc">Frontend developer in the React JS ecosystem, builds a website that is useful for everyone.</p>
+          <p className="i-desc">Self-taught software engineer in the React ecosystem, learn React JS, Next JS, React Native. Builds software that is useful for everyone.</p>
           <div className="i-icon">
             <a href="https://www.linkedin.com/in/yusufstawan/" target="_blank" rel="noreferrer" style={{ color: "blue" }}>
               <BsLinkedin />
