@@ -24,7 +24,7 @@ export const products = [
     {
         id: 4,
         img: project3,
-        link: "https://movie-database-react.web.app/",
+        link: "https://kelasweb-nextjs.vercel.app/",
     },
     {
         id: 5,
