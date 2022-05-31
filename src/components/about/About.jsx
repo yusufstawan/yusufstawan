@@ -14,16 +14,15 @@ const About = () => {
         </div>
       </div>
       <div className="a-right">
-        <h1 className="a-title">Tentang Saya</h1>
+        <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          Selain belajar saya juga membangun website saya sendiri yaitu: {""}
+          Apart from learning to develop websites, I also write about website technology on my blog: {""}
+          <br />
           <a href="http://kelasweb.id/" target="_blank" rel="noreferrer">
-            <button className="a-kelasweb">Kelas Web</button>
+            <button className="a-kelasweb">KelasWeb</button>
           </a>{" "}
         </p>
-        <p className="a-desc">
-          Saya menempuh pendidikan di Universitas Negeri Yogyakarta dengan Prodi Pendidikan Teknik Elektronika, sempat bekerja pada bidang customer service hingga akhirnya menemukan passion saya pada bidang Software Engineer.
-        </p>
+        <p className="a-desc">I studied at Universitas Negeri Yogyakarta with the Electronic Engineering Education Study Program, worked in the customer service field until finally I found my passion in the Software Engineer field.</p>
         <a href={CV} download="CV-Yusuf-Setiyawan.pdf">
           <button className="a-download">Download CV</button>
         </a>

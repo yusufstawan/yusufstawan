@@ -30,11 +30,11 @@ const Contact = () => {
       <div className="c-bg"></div>
       <div className="c-wrapper">
         <div className="c-left">
-          <h1 className="c-title"> Ingin berdiskusi? </h1>
+          <h1 className="c-title"> Want to discuss? </h1>
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              085-743-099-993 (WhatsApp)
+              Please fill out the form
             </div>
 
             <div className="c-info-item">
@@ -50,15 +50,15 @@ const Contact = () => {
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>Open to work!</b> Ingin menghubungi saya lebih lanjut? Silahkan isi form berikut:
+            <b>Open to work!</b> Want to contact me further? Please fill in the following form:
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
-            <input required style={{ backgroundColor: darkMode && "#333" }} type="text" placeholder="Nama" name="user_name" />
-            <input required style={{ backgroundColor: darkMode && "#333" }} type="text" placeholder="Subject" name="user_subject" />
-            <input required style={{ backgroundColor: darkMode && "#333" }} type="email" placeholder="Email" name="user_email" />
-            <textarea style={{ backgroundColor: darkMode && "#333" }} rows="5" placeholder="Pesan" name="message" />
-            <button>Kirim</button>
-            {done && "Terima kasih.."}
+            <input required style={{ backgroundColor: darkMode && "#333" }} type="text" placeholder="Your name" name="user_name" />
+            <input required style={{ backgroundColor: darkMode && "#333" }} type="text" placeholder="Subject email" name="user_subject" />
+            <input required style={{ backgroundColor: darkMode && "#333" }} type="email" placeholder="Your email" name="user_email" />
+            <textarea required style={{ backgroundColor: darkMode && "#333" }} rows="5" placeholder="Your Message" name="message" />
+            <button>Send</button>
+            {done && "Thank you, please wait for a reply via email.."}
           </form>
         </div>
       </div>

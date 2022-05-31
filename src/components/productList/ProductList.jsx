@@ -7,8 +7,8 @@ const ProductList = () => {
   return (
     <div className="pl">
       <div className="pl-texts">
-        <h1 className="pl-title">Portfolio Project</h1>
-        <p className="pl-desc">Berikut beberapa produk yang pernah saya buat.</p>
+        <h1 className="pl-title">My Portfolio</h1>
+        <p className="pl-desc">Here are some of the products I've made.</p>
       </div>
       <div className="pl-list">
         {products.map((item) => (

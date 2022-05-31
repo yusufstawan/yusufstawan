@@ -9,21 +9,20 @@ const Intro = () => {
     <div className="i">
       <div className="i-left">
         <div className="i-left-wrapper">
-          <h2 className="i-intro">Hallo, nama saya</h2>
+          <h2 className="i-intro">Hello, my name is</h2>
           <h1 className="i-name">Yusuf Setiyawan</h1>
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">Frontend Developer</div>
               <div className="i-title-item">Backend Developer</div>
-              <div className="i-title-item">React JS</div>
-              <div className="i-title-item">Node JS</div>
-              <div className="i-title-item">Next JS</div>
-              <div className="i-title-item">React Native</div>
+              <div className="i-title-item">React / Next JS</div>
+              <div className="i-title-item">Node / Express JS</div>
+              <div className="i-title-item">UI UX</div>
             </div>
           </div>
 
-          <p className="i-desc">Self-taught software engineer in the React ecosystem, learn React JS, Next JS, React Native. Builds software that is useful for everyone.</p>
-          <div className="i-icon">
+          <p className="i-desc">Self-taught software engineer in JavaScript ecosystem, learn about React, Next JS, and Node JS. Builds software that is useful for everyone</p>
+          <div className="i-icon" style={{ marginTop: 10 }}>
             <a href="https://www.linkedin.com/in/yusufstawan/" target="_blank" rel="noreferrer" style={{ color: "blue" }}>
               <BsLinkedin />
             </a>
