@@ -1,14 +1,13 @@
-## Halo semua! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+## Hello!
 
-Saya **Yusuf Setiyawan**, suka belajar Web Developer khususnya ekosistem React.
-<br>
+My name is **Yusuf Setiyawan**, self-taught software engineer in JavaScript ecosystem, learn about React, Next JS, and Node JS. Builds software that is useful for everyone
 <br>
 
 ## 🔗 Links
 
+[![myblog](https://img.shields.io/badge/My%20Blog-0B2035?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://kelasweb.id/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yusufstawan/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yusufstawan/)
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://yusufstawan.com/)
+[![portfolio](https://img.shields.io/badge/Portfolio-0000FF?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://yusufstawan.com/)
 
 ## 🛠️ Skills
 
@@ -19,16 +18,23 @@ Saya **Yusuf Setiyawan**, suka belajar Web Developer khususnya ekosistem React.
 ### Front-End Development
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![react-native](https://img.shields.io/badge/Reactnative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react-nextjs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!-- ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
 
-### Platform as a Service (PaaS)
+### Back-End Development
 
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![express](https://img.shields.io/badge/express%20js-f9fffd?style=for-the-badge&logo=express&logoColor=yellow)
+![mysql](https://img.shields.io/badge/mysql-f9fffd?style=for-the-badge&logo=mysql&logoColor=blue)
+![mongodb](https://img.shields.io/badge/mongo%20db-f9fffd?style=for-the-badge&logo=mongodb&logoColor=green)
+
+### Deploy
+
+![digitalocean](https://img.shields.io/badge/Digitalocean-0000D0?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Design Tools
 
