@@ -19,7 +19,7 @@ const About = () => {
           Apart from learning to develop websites, I also write about website technology on my blog: {""}
           <br />
           <a href="http://kelasweb.id/" target="_blank" rel="noreferrer">
-            <button className="a-kelasweb">KelasWeb</button>
+            <button className="a-kelasweb">My Blog: KelasWeb</button>
           </a>{" "}
         </p>
         <p className="a-desc">I studied at Universitas Negeri Yogyakarta with the Electronic Engineering Education Study Program, worked in the customer service field until finally I found my passion in the Software Engineer field.</p>
