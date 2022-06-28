@@ -7,27 +7,29 @@ My name is **Yusuf Setiyawan**, self-taught software engineer in JavaScript ecos
 
 [![myblog](https://img.shields.io/badge/My%20Blog-0B2035?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://kelasweb.id/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yusufstawan/)
-[![portfolio](https://img.shields.io/badge/Portfolio-0000FF?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://yusufstawan.com/)
+[![portfolio](https://img.shields.io/badge/Portfolio-0B2035?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://yusufstawan.com/)
 
 ## 🛠️ Skills
 
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![php](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=222530)
 
 ### Front-End Development
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![react-native](https://img.shields.io/badge/Reactnative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![react-nextjs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![react](https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react-native](https://img.shields.io/badge/Reactnative-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react-nextjs](https://img.shields.io/badge/nextjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![bootstrap](https://img.shields.io/badge/Bootstrap-7430F9?style=for-the-badge&logo=bootstrap&logoColor=white)
 <!-- ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
 
 ### Back-End Development
 
-![express](https://img.shields.io/badge/express%20js-f9fffd?style=for-the-badge&logo=express&logoColor=yellow)
-![mysql](https://img.shields.io/badge/mysql-f9fffd?style=for-the-badge&logo=mysql&logoColor=blue)
-![mongodb](https://img.shields.io/badge/mongo%20db-f9fffd?style=for-the-badge&logo=mongodb&logoColor=green)
+![express](https://img.shields.io/badge/express%20js-20232A?style=for-the-badge&logo=express&logoColor=yellow)
+![laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=red)
+![mysql](https://img.shields.io/badge/mysql-20232A?style=for-the-badge&logo=mysql&logoColor=blue)
+![mongodb](https://img.shields.io/badge/mongo%20db-023430?style=for-the-badge&logo=mongodb&logoColor=green)
 
 ### Deploy
 
