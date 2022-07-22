@@ -14,7 +14,6 @@ My name is **Yusuf Setiyawan**, self-taught software engineer in JavaScript ecos
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![php](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=222530)
 
 ### Front-End Development
 
