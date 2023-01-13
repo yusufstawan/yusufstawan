@@ -11,33 +11,19 @@ My name is **Yusuf Setiyawan**, self-taught software engineer in JavaScript ecos
 
 ## 🛠️ Tech
 
-<!-- ### Tech -->
-
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-<!-- ### Front-End Development -->
-
 ![react](https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react-native](https://img.shields.io/badge/Reactnative-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react-nextjs](https://img.shields.io/badge/nextjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7430F9?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<!-- ### Back-End Development -->
-
 ![express](https://img.shields.io/badge/express%20js-20232A?style=for-the-badge&logo=express&logoColor=yellow)
 ![mysql](https://img.shields.io/badge/mysql-20232A?style=for-the-badge&logo=mysql&logoColor=blue)
 ![mongodb](https://img.shields.io/badge/mongo%20db-023430?style=for-the-badge&logo=mongodb&logoColor=green)
-
-<!-- ### Deploy -->
-
 ![digitalocean](https://img.shields.io/badge/Digitalocean-0000D0?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-
-<!-- ### Design Tools -->
-
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 <p align="left">
@@ -46,5 +32,3 @@ My name is **Yusuf Setiyawan**, self-taught software engineer in JavaScript ecos
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufstawan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3510e857-05c9-4646-bb38-4d58979d5fe5/deploy-status)](https://app.netlify.com/sites/yusufstawan/deploys)
