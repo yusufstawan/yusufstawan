@@ -10,6 +10,7 @@ My name is **Yusuf Setiyawan**, self-taught software engineer in JavaScript ecos
 
 #### 🛠️ Technology
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue)
 ![vue](https://img.shields.io/badge/vue-282C34?style=for-the-badge&logo=vue.js&logoColor=42B883)
 ![nuxt](https://img.shields.io/badge/nuxtjs-282C34?style=for-the-badge&logo=nuxt.js&logoColor=42B883)
 ![react](https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,6 +30,6 @@ My name is **Yusuf Setiyawan**, self-taught software engineer in JavaScript ecos
 <p align="left">
 <a href="https://github.com/yusufstawan">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufstawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufstawan&layout=compact&langs_count=8&theme=algolia"/>
+<!--   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufstawan&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
