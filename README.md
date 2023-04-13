@@ -1,14 +1,13 @@
-### Hello!
+#### Hello!
 
-My name is **Yusuf Setiyawan**, self-taught software engineer in JavaScript ecosystem. Builds software that is useful for everyone.
-<br>
+My name is **Yusuf Setiyawan**, self-taught Software Engineer creates user-friendly software that is useful for all.
 
-#### 🔗 Links About me
+##### 🔗 About me
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yusufstawan/)
 [![portfolio](https://img.shields.io/badge/Portfolio-0B2035?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://yusufstawan.com/)
 [![myblog](https://img.shields.io/badge/My%20Blog-0B2035?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://kelasweb.id/)
 
-#### 🛠️ Technology
+##### 🛠️ Tech Stack
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue)
 ![vue](https://img.shields.io/badge/vue-282C34?style=for-the-badge&logo=vue.js&logoColor=42B883)
