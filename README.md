@@ -5,7 +5,7 @@ I'm Yusuf Setiyawan, a self-taught Software Engineer with 1+ years of experience
 #### 🔗 About me
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yusufstawan/)
 [![portfolio](https://img.shields.io/badge/Portfolio-0B2035?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://yusufstawan.com/)
-[![myblog](https://img.shields.io/badge/My%20Blog-0B2035?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://kelasweb.id/)
+<!-- [![myblog](https://img.shields.io/badge/My%20Blog-0B2035?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://kelasweb.id/) -->
 
 #### 🛠️ Tech Stack
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -29,6 +29,6 @@ I'm Yusuf Setiyawan, a self-taught Software Engineer with 1+ years of experience
 <p align="left">
 <a href="https://github.com/yusufstawan">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufstawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufstawan&layout=compact&langs_count=8&theme=algolia"/>
+<!--   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufstawan&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
