@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Yusuf Setiyawan, a self-taught Software Engineer with 1+ years of experience in TypeScript and JavaScript development for both frontend and backend development, with a focus on Frontend development. I am passionate about creating user-friendly software that is useful for everyone.
+Hi, I'm Yusuf Setiyawan, a passionate self-taught Software Engineer with over 2+ years of experience in JavaScript development. I specialize in crafting robust Backend solutions and creating engaging Frontend experiences. I take joy in building exceptional software products that make a lasting impact. Let's transform ideas into innovation!
 
 #### 🔗 About me
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yusufstawan/)
