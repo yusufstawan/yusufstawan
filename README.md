@@ -13,7 +13,7 @@ I'm a passionate self-taught Software Engineer in JavaScript & Go development. I
 
 ## 🚀 Personal Projects
 
-<div align="center">
+<div align="left">
   <img src="images/ruangbimbel_logo.png" alt="Ruang Bimbel Logo" width="60" height="60" style="border-radius: 8px;"/>
 </div>
 
