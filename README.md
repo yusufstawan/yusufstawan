@@ -5,7 +5,7 @@
 **Full-Stack Software Engineer** • 3+ Years Experience
 
 <a href="https://www.linkedin.com/in/yusufstawan/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="http://yusufstawan.com/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)</a>
+<a href="https://yusufstawan.com/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)</a>
 
 </div>
 
@@ -13,12 +13,11 @@ I'm a passionate self-taught Software Engineer in JavaScript & Go development. I
 
 ## 🚀 Personal Projects
 
-<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
-  <img src="images/ruangbimbel_logo.png" alt="Ruang Bimbel Logo" width="40" height="40" style="border-radius: 8px;"/>
-  <div>
-    <strong><a href="http://ruangbimbel.id/" target="_blank">Ruang Bimbel</a></strong> - <strong>Online Learning Platform for CPNS, BUMN & UTBK Exam Preparation</strong>
-  </div>
+<div align="center">
+  <img src="images/ruangbimbel_logo.png" alt="Ruang Bimbel Logo" width="60" height="60" style="border-radius: 8px;"/>
 </div>
+
+**[ruangbimbel.id](https://ruangbimbel.id/)** - **Online Learning Platform for CPNS, BUMN & UTBK Exam Preparation**
 
 Solo-built from zero to production: complete learning platform with study materials, question banks, realistic simulations, scoring, and personalized insights.
 
@@ -47,6 +46,6 @@ Solo-built from zero to production: complete learning platform with study materi
 **Let's build something great together!**
 
 <a href="https://www.linkedin.com/in/yusufstawan/" target="_blank">![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
-<a href="http://yusufstawan.com/" target="_blank">![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)</a>
+<a href="https://yusufstawan.com/" target="_blank">![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)</a>
 
 </div>
