@@ -9,23 +9,24 @@
 
 </div>
 
-I'm a passionate self-taught Software Engineer with 3+ years of experience in JavaScript development. I specialize in crafting robust Backend solutions and creating engaging Frontend experiences. I take joy in building exceptional software products that make a lasting impact. Let's transform ideas into innovation!
+I'm a passionate self-taught Software Engineer in JavaScript & Go development. I specialize in crafting robust Backend solutions and creating engaging Frontend experiences. I take joy in building exceptional software products that make a lasting impact. Let's transform ideas into innovation!
 
-## 🚀 Projects
+## 🚀 Personal Projects
 
-<img src="images/ruangbimbel_logo.png" alt="Ruang Bimbel Logo" width="40" height="40" style="vertical-align: middle; border-radius: 8px;"/> **<a href="http://ruangbimbel.id/" target="_blank">Ruang Bimbel</a>**
+<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+  <img src="images/ruangbimbel_logo.png" alt="Ruang Bimbel Logo" width="40" height="40" style="border-radius: 8px;"/>
+  <div>
+    <strong><a href="http://ruangbimbel.id/" target="_blank">Ruang Bimbel</a></strong> - <strong>Online Learning Platform for CPNS, BUMN & UTBK Exam Preparation</strong>
+  </div>
+</div>
 
-**Online Learning Platform for CPNS, BUMN & UTBK Exam Preparation**
+Solo-built from zero to production: complete learning platform with study materials, question banks, realistic simulations, scoring, and personalized insights.
 
-> Solo-built from zero to production: complete learning platform with study materials, question banks, realistic simulations, scoring, and personalized insights.
->
-> **Stack:** Next.js • TanStack Query • Go • PostgreSQL • Redis • Docker • CI/CD
->
-> **Role:** End-to-end ownership (Figma design → architecture → deployment → analytics)
->
-> **Impact:** Production-ready with real user traffic, optimized performance & seamless UX
+- **Stack:** Next.js • TanStack Query • Go • PostgreSQL • Redis • Docker • CI/CD
+- **Role:** End-to-end ownership (Figma design → architecture → deployment → analytics)
+- **Impact:** Production-ready with real user traffic, optimized performance & seamless UX
 
-## 💻 Tech Stack
+## 💻 My Tech Stack
 
 **Languages** • ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
