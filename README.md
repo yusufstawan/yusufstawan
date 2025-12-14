@@ -9,7 +9,9 @@
 
 </div>
 
-I'm a passionate self-taught Software Engineer in JavaScript & Go development. I specialize in crafting robust Backend solutions and creating engaging Frontend experiences. I take joy in building exceptional software products that make a lasting impact. Let's transform ideas into innovation!
+Hi, I'm Yusuf Setiyawan, a passionate self-taught Software Engineer with 3+ years of experience specializing in JavaScript and Go. I focus on crafting robust Backend solutions and creating engaging Frontend experiences.
+
+Proactive in leveraging AI-assisted workflows to accelerate problem-solving and delivery, I take joy in building exceptional software that makes a lasting impact. Let's transform ideas into innovation!
 
 ## 🚀 Personal Projects
 
