@@ -9,7 +9,9 @@
 
 </div>
 
-I'm a passionate self-taught Software Engineer in JavaScript & Go development. I specialize in crafting robust Backend solutions and creating engaging Frontend experiences. I take joy in building exceptional software products that make a lasting impact. Let's transform ideas into innovation!
+Hi, I'm Yusuf Setiyawan, a passionate self-taught Software Engineer with 3+ years of experience specializing in JavaScript and Go. I focus on crafting robust Backend solutions and creating engaging Frontend experiences.
+
+Proactive in leveraging AI-assisted workflows to accelerate problem-solving and delivery, I take joy in building exceptional software that makes a lasting impact. Let's transform ideas into innovation!
 
 ## 🚀 Personal Projects
 
@@ -35,14 +37,3 @@ Solo-built from zero to production: complete learning platform with study materi
 **Database & Cache** • ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) 
 
 **DevOps & Tools** • ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-<div align="center">
-
-**Let's build something great together!**
-
-<a href="https://www.linkedin.com/in/yusufstawan/" target="_blank">![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
-<a href="https://yusufstawan.com/" target="_blank">![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)</a>
-
-</div>
