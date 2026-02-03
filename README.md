@@ -20,7 +20,7 @@ Proactive in leveraging AI-assisted workflows to accelerate problem-solving and 
 </a>
 
 **[ruangbimbel.id](https://ruangbimbel.id/)** — **Online Learning Platform for CPNS, BUMN & UTBK**  
-Comprehensive learning management system designed for high-stakes exam preparation. Features realistic simulations, detailed performance analytics, adaptive question banks.
+Comprehensive online learning platform that helps users prepare for CPNS, BUMN, and UTBK exams through complete study materials, question banks, and realistic simulations
 <br clear="left"/>
 <br/>
 
