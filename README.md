@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm Yusuf Setiyawan
 
-**Full-Stack Software Engineer** • 3+ Years Experience
-
 <a href="https://www.linkedin.com/in/yusufstawan/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://yusufstawan.com/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)</a>
 
